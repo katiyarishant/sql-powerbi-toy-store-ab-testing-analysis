@@ -6,7 +6,6 @@
 
 # Dashboard Preview
 
-## Dashboard
 ![Dashboard](dashboard.png)
 
 This dashboard provides a complete comparison between the old and new landing pages by analyzing sessions, engagement, bounce rate, conversion rate, revenue, funnel behavior, traffic sources, and device performance.
@@ -15,7 +14,6 @@ This dashboard provides a complete comparison between the old and new landing pa
 
 # Data Model & Relationships
 
-## Power BI Relationship Model
 ![Relationships](relationships.png)
 
 The data model was designed using a star-schema style approach to ensure proper filter propagation and accurate KPI calculations across sessions, pageviews, orders, products, and order items.
